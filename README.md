@@ -13,11 +13,11 @@
 
 # Jupyter Notebooks to reference
 
-#### View " project_one_citibike_mta_eda.ipynb " as the main notebook.
+#### View " project_one_citibike_mta_eda.ipynb " as the main notebook.**
 
-Reference " sam_citibike.ipynb " to see how CitiBike recovers in 2020.
+** Reference " sam_citibike.ipynb " to see how CitiBike recovers in 2020.
 
-Reference " sam_mta_and_citibike_comparison.ipynb" to see a visualization of how station ridership has plummeted.
+** Reference " sam_mta_and_citibike_comparison.ipynb" to see a visualization of how station ridership has plummeted.
 
 
 ## Data Sources and Time Period
